@@ -34,6 +34,8 @@ Flask REST API for Task Management (CRUD with SQLite)
 GET: Ανάκτηση δεδομένων
 
 POST: Αποστολή νέων δεδομένων
+<img width="1028" height="660" alt="Screenshot 2025-10-25 135507" src="https://github.com/user-attachments/assets/d2715db2-c4a2-49ab-9de9-02dd1dfb3347" />
+<img width="1024" height="627" alt="Screenshot 2025-10-25 135224" src="https://github.com/user-attachments/assets/0e61657d-c7b1-4602-a115-56a17a471695" />
 
 PUT/PATCH: Ενημέρωση υπαρχόντων δεδομένων
 
@@ -46,6 +48,7 @@ DELETE: Διαγραφή δεδομένων
 
 2) Post method
 <img width="378" height="635" alt="Screenshot 2025-10-25 112704" src="https://github.com/user-attachments/assets/58ace44d-ce4a-4b0c-a082-86968e1b9244" />
+
 
 3) Get Method
 <img width="1048" height="934" alt="Screenshot 2025-10-25 112732" src="https://github.com/user-attachments/assets/c726fc11-6248-474b-add9-1c2f37bad98c" />
