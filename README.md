@@ -2,52 +2,11 @@
 
 Flask REST API for Task Management (CRUD with SQLite)
 
-📘 Overview
+## 📘 Overview
 
 Μια απλή REST API εφαρμογή σε Flask για τη διαχείριση εργασιών (tasks).
 Ο χρήστης μπορεί να δημιουργεί, διαβάζει, ενημερώνει και διαγράφει εργασίες.
 Η εφαρμογή ακολουθεί RESTful αρχιτεκτονική και χρησιμοποιεί SQLite για αποθήκευση δεδομένων (persistent storage).
-
-🚀 Features
-
-✅ CRUD endpoints για tasks (GET, POST, PUT, DELETE)
-
-🔎 Filtering & Sorting μέσω query parameters
-
-🧱 SQLite database (persistent data)
-
-🧩 Input validation για status και priority
-
-⚙️ Structured Flask app με Blueprints
-
-💬 JSON responses & σωστό error handling
-
-🧾 Documentation με παραδείγματα Postman/cURL
-
-🧠 Tech Stack
-Component	Description
-Language	Python 3.10+
-Framework	Flask
-ORM	Flask SQLAlchemy
-Database	SQLite
-Environment	Virtualenv / pip
-
-
-
-
-
-
-
-
-# Python-Developer-Technical-Assessment
-Flask REST API for task management (CRUD with SQLite)
-
-# ✅ Flask Tasks API
-
-Μια απλή **REST API εφαρμογή σε Flask** για τη διαχείριση εργασιών (tasks).  
-Ο χρήστης μπορεί να δημιουργεί, διαβάζει, ενημερώνει και διαγράφει εργασίες.
-
----
 
 ## 🚀 Δυνατότητες
 
