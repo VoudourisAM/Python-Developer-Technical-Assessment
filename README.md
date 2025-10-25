@@ -1,3 +1,44 @@
+🧩 Python Developer Technical Assessment
+
+Flask REST API for Task Management (CRUD with SQLite)
+
+📘 Overview
+
+Μια απλή REST API εφαρμογή σε Flask για τη διαχείριση εργασιών (tasks).
+Ο χρήστης μπορεί να δημιουργεί, διαβάζει, ενημερώνει και διαγράφει εργασίες.
+Η εφαρμογή ακολουθεί RESTful αρχιτεκτονική και χρησιμοποιεί SQLite για αποθήκευση δεδομένων (persistent storage).
+
+🚀 Features
+
+✅ CRUD endpoints για tasks (GET, POST, PUT, DELETE)
+
+🔎 Filtering & Sorting μέσω query parameters
+
+🧱 SQLite database (persistent data)
+
+🧩 Input validation για status και priority
+
+⚙️ Structured Flask app με Blueprints
+
+💬 JSON responses & σωστό error handling
+
+🧾 Documentation με παραδείγματα Postman/cURL
+
+🧠 Tech Stack
+Component	Description
+Language	Python 3.10+
+Framework	Flask
+ORM	Flask SQLAlchemy
+Database	SQLite
+Environment	Virtualenv / pip
+
+
+
+
+
+
+
+
 # Python-Developer-Technical-Assessment
 Flask REST API for task management (CRUD with SQLite)
 
@@ -41,8 +82,20 @@ DELETE: Διαγραφή δεδομένων
 
 Κάθε μέθοδος έχει τεκμηριωθεί με παραδείγματα αιτημάτων και απαντήσεων στο Postman collection που περιλαμβάνεται στο repository.
 
-<img width="726" height="594" alt="Screenshot 2025-10-23 193929" src="https://github.com/user-attachments/assets/cf1fc16d-3c51-4002-8ac6-624a6aec2106" />
-<img width="908" height="870" alt="Screenshot 2025-10-23 193941" src="https://github.com/user-attachments/assets/5e95e795-2823-4c16-9024-e99fc8841734" />
-<img width="1007" height="633" alt="Screenshot 2025-10-23 193951" src="https://github.com/user-attachments/assets/25fb1193-3c30-4aa1-a995-2f1f4818a966" />
-<img width="816" height="559" alt="Screenshot 2025-10-23 194000" src="https://github.com/user-attachments/assets/a8c72b98-1d00-4de0-b76f-07315e6b9366" />
-<img width="885" height="536" alt="Screenshot 2025-10-23 194015" src="https://github.com/user-attachments/assets/d4c4e6b8-9bc0-414d-a9a1-174ab4139c3d" />
+1) db κενή
+<img width="395" height="286" alt="Screenshot 2025-10-25 112653" src="https://github.com/user-attachments/assets/d125f610-3847-49d9-a522-ef70fa7a6ea5" />
+
+2) Post method
+<img width="378" height="635" alt="Screenshot 2025-10-25 112704" src="https://github.com/user-attachments/assets/58ace44d-ce4a-4b0c-a082-86968e1b9244" />
+
+3) Get Method
+<img width="1048" height="934" alt="Screenshot 2025-10-25 112732" src="https://github.com/user-attachments/assets/c726fc11-6248-474b-add9-1c2f37bad98c" />
+<img width="342" height="475" alt="Screenshot 2025-10-25 113056" src="https://github.com/user-attachments/assets/d4206e2c-d5c9-417a-b621-fedd6affebdf" />
+
+4) Put Method
+<img width="1016" height="657" alt="Screenshot 2025-10-25 112926" src="https://github.com/user-attachments/assets/73d6af9b-f2db-4755-976e-883d84b29c9e" />
+<img width="1241" height="621" alt="Screenshot 2025-10-25 113005" src="https://github.com/user-attachments/assets/579d30e8-c45d-41c6-9fa6-6b98954ccb0a" />
+
+5) Delete Method
+<img width="1026" height="583" alt="Screenshot 2025-10-25 113032" src="https://github.com/user-attachments/assets/03eb59da-090c-4cea-a5a7-76fcb9f7246c" />
+<img width="1018" height="583" alt="Screenshot 2025-10-25 113112" src="https://github.com/user-attachments/assets/f754065a-ffcd-4b69-aaa2-468a159d80ea" />
