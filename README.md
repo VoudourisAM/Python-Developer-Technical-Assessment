@@ -58,3 +58,18 @@ DELETE: Διαγραφή δεδομένων
 5) Delete Method
 <img width="1026" height="583" alt="Screenshot 2025-10-25 113032" src="https://github.com/user-attachments/assets/03eb59da-090c-4cea-a5a7-76fcb9f7246c" />
 <img width="1018" height="583" alt="Screenshot 2025-10-25 113112" src="https://github.com/user-attachments/assets/f754065a-ffcd-4b69-aaa2-468a159d80ea" />
+
+## ⚙️ Εγκατάσταση & Εκτέλεση
+```bash
+# 1️⃣ Κλωνοποίησε το repo
+git clone https://github.com/VoudourisAM/Python-Developer-Technical-Assessment.git
+cd Python-Developer-Technical-Assessment
+
+# 2️⃣ Εγκατέστησε τα requirements
+pip install -r requirements.txt
+
+# 3️⃣ Τρέξε την εφαρμογή
+python app.py
+
+# 4️⃣ Άνοιξε στο browser ή Postman
+http://127.0.0.1:5000/tasks
