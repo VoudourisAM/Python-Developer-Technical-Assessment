@@ -31,16 +31,6 @@ Flask REST API for Task Management (CRUD with SQLite)
 
 Τα δεδομένα που χρησιμοποιήθηκαν στο project ελήφθησαν μέσω του **Postman** από το αντίστοιχο API. Οι κύριες μέθοδοι που χρησιμοποιήθηκαν είναι:
 
-GET: Ανάκτηση δεδομένων
-
-POST: Αποστολή νέων δεδομένων
-<img width="1028" height="660" alt="Screenshot 2025-10-25 135507" src="https://github.com/user-attachments/assets/d2715db2-c4a2-49ab-9de9-02dd1dfb3347" />
-<img width="1024" height="627" alt="Screenshot 2025-10-25 135224" src="https://github.com/user-attachments/assets/0e61657d-c7b1-4602-a115-56a17a471695" />
-
-PUT/PATCH: Ενημέρωση υπαρχόντων δεδομένων
-
-DELETE: Διαγραφή δεδομένων
-
 Κάθε μέθοδος έχει τεκμηριωθεί με παραδείγματα αιτημάτων και απαντήσεων στο Postman collection που περιλαμβάνεται στο repository.
 
 1) db κενή
