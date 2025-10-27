@@ -44,23 +44,23 @@ DELETE: Διαγραφή δεδομένων
 Κάθε μέθοδος έχει τεκμηριωθεί με παραδείγματα αιτημάτων και απαντήσεων στο Postman collection που περιλαμβάνεται στο repository.
 
 1) db κενή
-<img width="395" height="286" alt="Screenshot 2025-10-25 112653" src="https://github.com/user-attachments/assets/d125f610-3847-49d9-a522-ef70fa7a6ea5" />
+<img width="1698" height="825" alt="Screenshot 2025-10-27 201327" src="https://github.com/user-attachments/assets/7ad05105-ee50-4ee9-a57f-9d54f5de3d9b" />
 
 2) Post method
-<img width="378" height="635" alt="Screenshot 2025-10-25 112704" src="https://github.com/user-attachments/assets/58ace44d-ce4a-4b0c-a082-86968e1b9244" />
-
+<img width="1699" height="827" alt="Screenshot 2025-10-27 201518" src="https://github.com/user-attachments/assets/fe2535ec-515d-4399-872d-aeeaf1b39fd1" />
+<img width="1694" height="820" alt="Screenshot 2025-10-27 201546" src="https://github.com/user-attachments/assets/f4642b13-cfeb-441b-981f-6c6ae8debc1d" />
 
 3) Get Method
-<img width="1048" height="934" alt="Screenshot 2025-10-25 112732" src="https://github.com/user-attachments/assets/c726fc11-6248-474b-add9-1c2f37bad98c" />
-<img width="342" height="475" alt="Screenshot 2025-10-25 113056" src="https://github.com/user-attachments/assets/d4206e2c-d5c9-417a-b621-fedd6affebdf" />
+<img width="1699" height="827" alt="Screenshot 2025-10-27 201808" src="https://github.com/user-attachments/assets/4153769f-401f-407e-9ece-4ec1a4becbf3" />
 
 4) Put Method
-<img width="1016" height="657" alt="Screenshot 2025-10-25 112926" src="https://github.com/user-attachments/assets/73d6af9b-f2db-4755-976e-883d84b29c9e" />
-<img width="1241" height="621" alt="Screenshot 2025-10-25 113005" src="https://github.com/user-attachments/assets/579d30e8-c45d-41c6-9fa6-6b98954ccb0a" />
+<img width="1695" height="825" alt="Screenshot 2025-10-27 201940" src="https://github.com/user-attachments/assets/6e632cf0-077b-48f0-9105-97432f6c62f4" />
+<img width="1699" height="824" alt="Screenshot 2025-10-27 202002" src="https://github.com/user-attachments/assets/a27ea056-fa42-4269-825e-cbd4c541708a" />
 
 5) Delete Method
-<img width="1026" height="583" alt="Screenshot 2025-10-25 113032" src="https://github.com/user-attachments/assets/03eb59da-090c-4cea-a5a7-76fcb9f7246c" />
-<img width="1018" height="583" alt="Screenshot 2025-10-25 113112" src="https://github.com/user-attachments/assets/f754065a-ffcd-4b69-aaa2-468a159d80ea" />
+<img width="1695" height="826" alt="Screenshot 2025-10-27 202048" src="https://github.com/user-attachments/assets/76c6c628-ec2f-4c31-a5aa-110741efa308" />
+<img width="1698" height="825" alt="Screenshot 2025-10-27 202116" src="https://github.com/user-attachments/assets/65bd17a8-4ece-4433-bc92-6ad09a44bbdd" />
+
 
 ## ⚙️ Εγκατάσταση & Εκτέλεση
 ```bash
